@@ -10,6 +10,8 @@ I want to learn C at the time!
 
 
 ### About me
+Q | A
+------------ | -------------
 | Name | Fynn |
 | Pronouns | he/him |
 | Age | 16 |
