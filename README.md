@@ -10,12 +10,12 @@ I want to learn C at the time!
 
 
 ### About me
-Name | Fynn
-Pronouns | he/him
-Age | 16
-Active in programming | since 2016
-Hobbys | Playing Guitar and Drums, Cinematography, Diving
-Crazy? | [x]
+| Name | Fynn |
+| Pronouns | he/him |
+| Age | 16 |
+| Active in programming | since 2016 |
+| Hobbys | Playing Guitar and Drums, Cinematography, Diving |
+| Crazy? | [x] |
 
 
 ### Contact me
