@@ -20,10 +20,11 @@ Crazy? | [x]
 
 ### Contact me
 You can find me on various Social Media Plattforms
-[Instagram](https://instagram.com/testiyyy)
-[Twitch](https://twitch.tv/testiyyy)
-[Meme-Homepage](https://tsg100.tk)
-[Twitter](https://twitter.com/testiyyy)
+
+* [Instagram](https://instagram.com/testiyyy)
+* [Twitch](https://twitch.tv/testiyyy)
+* [Meme-Homepage](https://tsg100.tk)
+* [Twitter](https://twitter.com/testiyyy)
 <!--
 **tsg100/tsg100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
