@@ -18,7 +18,7 @@ Q | A
 | Age | 16 |
 | Active in programming | since 2016 |
 | Hobbys | Playing Guitar and Drums, Cinematography, Diving |
-| Crazy? | [ x ] check|
+| Crazy? | [x]|
 
 
 ### Contact me
