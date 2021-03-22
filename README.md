@@ -1,5 +1,29 @@
-### Hi there 👋
+# Heya!
+## Welcome on my profile!
+*I'm just a normal student, who is having some fun on GitHub c:*
 
+My main programming languages are
+* Java
+* PHP
+* Python
+I want to learn C at the time!
+
+
+### About me
+Name | Fynn
+Pronouns | he/him
+Age | 16
+Active in programming | since 2016
+Hobbys | Playing Guitar and Drums, Cinematography, Diving
+Crazy? | [x]
+
+
+###Contact me
+You can find me on various Social Media Plattforms
+[Instagram](https://instagram.com/testiyyy)
+[Twitch](https://twitch.tv/testiyyy)
+[Meme-Homepage](https://tsg100.tk)
+[Twitter](https://twitter.com/testiyyy)
 <!--
 **tsg100/tsg100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
