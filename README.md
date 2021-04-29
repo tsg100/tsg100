@@ -1,6 +1,7 @@
 # Heya!
 ## Welcome on my profile!
 *I'm just a normal student, who is having some fun on GitHub c:*
+Most of my repo's are private tho (:
 
 My main programming languages are
 * Java
