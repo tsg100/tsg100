@@ -16,7 +16,7 @@ I want to learn C at the time!
 Q | A
 ------------ | -------------
 | Name | Fynn |
-| Age | 16 |
+| Age | 17 |
 | Pronouns | he/him |
 | Active in programming | since 2016 |
 | Hobbys | Playing Guitar and Drums, Cinematography, Diving |
