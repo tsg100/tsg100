@@ -5,7 +5,7 @@
 #### Most of my repo's are private tho (:
 
 My main programming languages are
-* Java
+* Java/Kotlin
 * PHP
 * Python
 
