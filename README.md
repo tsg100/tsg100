@@ -9,8 +9,6 @@ My main programming languages are
 * PHP
 * Python
 
-I want to learn C at the time!
-
 
 ### About me
 Q | A
