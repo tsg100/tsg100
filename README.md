@@ -16,7 +16,7 @@ Q | A
 | Name | Fynn |
 | Age | 18 |
 | Pronouns | he/him |
-| Active in programming | since 2016 |
+| Active in programing | since 2016 |
 | Hobbys | Playing Guitar and Drums, Cinematography, Diving |
 
 
