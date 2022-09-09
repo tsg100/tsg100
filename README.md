@@ -14,11 +14,10 @@ My main programming languages are
 Q | A
 ------------ | -------------
 | Name | Fynn |
-| Age | 17 |
+| Age | 18 |
 | Pronouns | he/him |
 | Active in programming | since 2016 |
 | Hobbys | Playing Guitar and Drums, Cinematography, Diving |
-| Crazy? | [x]|
 
 
 ### Contact me
