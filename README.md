@@ -1,43 +1,28 @@
-# Heya!
-## Welcome on my profile!
-*I'm just a normal student, who is having some fun on GitHub c:*
-
-#### Most of my repo's are private tho (:
-
-My main programming languages are
-* Java/Kotlin
-* PHP
-* Python
+# 💫 About Me:
+I'm currently learnin Kotlin while still doing lots of things in Python and Java :)<br>Just hit me up about anything :>
 
 
-### About me
-Q | A
------------- | -------------
-| Name | Fynn |
-| Age | 18 |
-| Pronouns | he/him |
-| Active in programing | since 2016 |
-| Hobbys | Playing Guitar and Drums, Cinematography, Diving |
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/testiyyy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fynn-henck-b71829194) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/testiyyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/testiyyy) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=flat-square&logo=Adobe%20Dreamweaver&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tsg100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tsg100&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsg100&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### Contact me
-You can find me on various Social Media Plattforms
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-* [Instagram](https://instagram.com/testiyyy)
-* [Twitch](https://twitch.tv/testiyyy)
-* [Linktree](https://fynnhenck.de)
-* [Twitter](https://twitter.com/testiyyy)
-<!--
-**tsg100/tsg100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-Here are some ideas to get you started:
+---
+[![](https://visitcount.itsvg.in/api?id=tsg100&icon=1&color=1)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tsg100) 
+
+  <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
